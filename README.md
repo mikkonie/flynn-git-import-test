@@ -1,4 +1,4 @@
-# python-flynn-example
+Minimal project to reproduce failing pyldap git import on Flynn v20170116.0p2 ([issue #3932](https://github.com/flynn/flynn/issues/3932))
 
-Modified version of a minimal Python app running Flask, to test failing
-pyldap include on Flynn v20170116.0p2.
+
+Based on [python-flynn-example](https://github.com/flynn-examples/python-flynn-example). 
