@@ -1,3 +1,4 @@
 # python-flynn-example
 
-A demo Python app running Flask, which can be deployed to [Flynn](https://flynn.io).
+Modified version of a minimal Python app running Flask, to test failing
+pyldap include on Flynn v20170116.0p2.

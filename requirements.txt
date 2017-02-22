@@ -1,1 +1,6 @@
-Flask==0.9
+Flask==0.12
+
+# Installing the ldap requirements should work
+django-auth-ldap==1.2.8
+-e git://github.com/holtgrewe/pyldap.git@fce3b934e9b2d7d1a538fc37d7c4ed4cfe18fae1#egg=pyldap
+
